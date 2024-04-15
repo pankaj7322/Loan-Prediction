@@ -1,2 +1,6 @@
 # Loan Prediction 
 # categorical
+
+
+
+
